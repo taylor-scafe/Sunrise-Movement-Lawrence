@@ -12,7 +12,7 @@ title: Contact Sunrise Lawrence
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="join">Interested in joining?</label>
-    <input type="checkbox" id="join" name="join" class ="full-width" required/><br>
+    <input type="checkbox" id="join" name="join" value="true" class ="full-width" ><br>
     <label for="email">Email Address</label>
     <input type="email" id="email" name="replyto" class="full-width" required/><br>
     <label for="message">Message</label>
