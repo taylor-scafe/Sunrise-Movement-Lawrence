@@ -27,9 +27,9 @@ For the past few years, a successor to the original CCC seemed like a no-brainer
 
 ## What’s the catch?
 
+![Joe Biden Announcing the American Climate Corps](/assets/img/biden-acc.webp)
+Photo by Jim Watson
+
 While it’s really encouraging to see a sitting president at least vocally support action like this, the current American Climate Corps proposition will only create around 20,000 jobs in its first year as opposed to the hundreds of thousands the original CCC provided in its first few months alone. As an anecdote, a majority of the people my age who I’ve talked to about the ACC are actively interested in working in an ACC job. We’re the most climate-conscious generation the world has seen and we want to use our skills to help the United States protect the environment and transition away from fossil fuels as fast as possible! But those 20,000 spots will fill up incredibly quickly and still leave many of us unemployed or forced to take on jobs that may exacerbate the climate crisis simply to survive in the short term. This is besides the fact that there haven’t been many specifics released on the ACC - we don’t even know when or where these jobs will be offered, much less to who.
 
 While it’s certainly a mixed bag, the ACC is a step forward towards actually solving the climate crisis while giving young people much-needed employment opportunities. I’m excited to see how the agency evolves and what sort of jobs we are able to apply for, and am hopeful that more will be offered as time goes on. Sign up for updates [at this link](https://www.whitehouse.gov/climatecorps/) if you’re interested in staying in the loop too!
-
-<img src="/assets/img/biden-acc.webp" alt="Joe Biden Announcing the American Climate Corps" width="100%">
-Photo by Jim Watson
