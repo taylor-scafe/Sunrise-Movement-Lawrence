@@ -2,7 +2,7 @@
 layout: post
 title: American Climate Corps Explainer
 author: Joel Campbell
-date:   2023-10-01
+date:   2023-10-07
 description: Biden just created the American Climate Corps, but what is it and what does it mean for our generation?
 ---
 
